@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/* BAGIAN LOGIN */
+#login{
+    max-width: 340px;
+    margin:100px auto;
+    background: #f9f9f9;
+    box-shadow: 0 0 10px #aaa;
+}
+#login h3{
+    text-align: center;
+    padding: 25px 10px 20px;
+    background-color: #2b2f3e;
+    color: #b0b0bc;
+}
+.input-text, .input-password{
+    width: 100%;
+    padding: 5px;
+    margin: 10px 0px 0px 0px;
+    color: #888;
+}
+.tombol{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+/* BAGIAN LOGIN */
+
+/* BAGIAN REGISTER */
+.inputs{
+    width: 100%;
+    padding: 5px;
+    margin: 10px 0px 0px 0px;
+    color: #888;
+}
+.inputs-r{
+    margin-top:10px;
+}
